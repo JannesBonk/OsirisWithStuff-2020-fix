@@ -1,0 +1,94 @@
+﻿  Config.cpp
+  EventListener.cpp
+  ExtraHooks.cpp
+  Aimbot.cpp
+  Animations.cpp
+  AntiAim.cpp
+  Backtrack.cpp
+  Chams.cpp
+  EnginePrediction.cpp
+  Esp.cpp
+  Glow.cpp
+  GrenadePrediction.cpp
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Esp.cpp(236,140): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Esp.cpp(236,59): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\AntiAim.cpp(131,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\AntiAim.cpp(132,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Legitbot.cpp
+  Ragebot.cpp
+  Resolver.cpp
+  SkinChanger.cpp
+  Tickbase.cpp
+  Triggerbot.cpp
+  Visuals.cpp
+  MinHook.cpp
+  VmtHook.cpp
+  VmtSwap.cpp
+  imguiCustom.cpp
+  imgui_stdlib.cpp
+  jsoncpp.cpp
+  Netvars.cpp
+  config_.cpp
+  item_definitions.cpp
+  Platform.cpp
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Ragebot.cpp(515,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Ragebot.cpp(574,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Resolver.cpp(136,27): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Visuals.cpp(131,60): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Visuals.cpp(165,42): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Visuals.cpp(166,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Visuals.cpp(424,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Osiris.cpp
+  GUI.cpp
+  Misc.cpp
+  Hooks.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Memory.cpp
+  Entity.cpp
+  GlobalVars.cpp
+  KeyValues.cpp
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\GUI.cpp(252,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\GUI.cpp(259,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\GUI.cpp(899,73): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Misc.cpp(128,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Misc.cpp(129,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Misc.cpp(189,9): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Misc.cpp(594,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hacks\Misc.cpp(660,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hooks.cpp(650,1): warning C4405: 'in': identifier is reserved word
+C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Osiris\Hooks.cpp(651,1): warning C4405: 'out': identifier is reserved word
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Osiris.vcxproj -> C:\Users\JannesBonk\Desktop\osiriswithstuff-master\Release\Osiris.dll
